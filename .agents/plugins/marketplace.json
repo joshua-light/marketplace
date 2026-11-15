@@ -1,0 +1,12 @@
+{
+  "name": "joshua-light",
+  "interface": { "displayName": "Joshua Light" },
+  "plugins": [
+    {
+      "name": "style",
+      "source": { "source": "url", "url": "https://github.com/joshua-light/style.git" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Creativity"
+    }
+  ]
+}

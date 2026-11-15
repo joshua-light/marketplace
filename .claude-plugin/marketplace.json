@@ -1,0 +1,17 @@
+{
+  "name": "joshua-light",
+  "description": "Joshua Light's plugins for Claude Code and Codex.",
+  "owner": {
+    "name": "Joshua Light",
+    "url": "https://github.com/joshua-light"
+  },
+  "plugins": [
+    {
+      "name": "style",
+      "source": { "source": "github", "repo": "joshua-light/style" },
+      "description": "Personal visual style guide for slides, designs, charts, and diagrams.",
+      "category": "design",
+      "homepage": "https://github.com/joshua-light/style"
+    }
+  ]
+}
